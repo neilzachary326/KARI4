@@ -10,7 +10,6 @@ body{
     color:#222;
 }
 
-/* Header */
 
 header{
     width:90%;
@@ -59,7 +58,6 @@ header{
     font-size:12px;
 }
 
-/* Hero */
 
 .hero{
     width:90%;
@@ -93,7 +91,6 @@ header{
     cursor:pointer;
 }
 
-/* Filter */
 
 .filter{
     width:90%;
@@ -122,7 +119,6 @@ header{
     color:#2d6df6;
 }
 
-/* Products */
 
 .products{
     width:90%;
@@ -239,7 +235,6 @@ header{
     text-decoration:none;
 }
 
-/* Footer */
 
 footer{
     margin-top:50px;
